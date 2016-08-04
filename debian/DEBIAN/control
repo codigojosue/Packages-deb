@@ -1,0 +1,12 @@
+Package: morealias
+Version: 1.0
+Architecture: amd64
+Maintainer: Josué Carmona <josdan5555@gmail.com>
+Installed-Size: 10
+#Depends: libc6 (>= 2.2.5), libncurses5 (>= 5.5-5~), libtinfo5
+Section: utils
+Priority: optional
+Homepage: www.josuecarmona.es
+Description: package testing
+ yosu is a program that testing
+ create comand ll for listing 
